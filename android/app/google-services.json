@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594661911540",
+    "project_id": "enigmatics-2efe6",
+    "storage_bucket": "enigmatics-2efe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594661911540:android:36cec524f28420f685a7a1",
+        "android_client_info": {
+          "package_name": "id.ac.its.engimatics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594661911540-s2geuvuocosduokigagh4o9ce1dop8hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.its.engimatics",
+            "certificate_hash": "17b1c0be13a1b8928887de0b556c691a86581012"
+          }
+        },
+        {
+          "client_id": "594661911540-v6vupv8ovemkcfnnqoh25kdmmj5t17d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKLsXg-RjsJzZAu6z_O9PihE4pZuKXZDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594661911540-v6vupv8ovemkcfnnqoh25kdmmj5t17d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
